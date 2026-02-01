@@ -1,5 +1,5 @@
 
-**### Stress-aware analysis of MEF2C regulatory programs in microglia**
+### Stress-aware analysis of MEF2C regulatory programs in microglia
 
 Stress aware reanalysis of MEF2C regulatory programs in microglia, integrating bulk regulatory genomics and single cell stress modeling to distinguish technical artifacts from true biological signals. 
 
@@ -15,7 +15,7 @@ Comparisons are performed at the level of gene programs and pathways.
 
 The figure below shows a low-dimensional embedding of single-cell microglia colored by dissociation stress score and by MEF2C-associated gene program score.
 
-![Stress and MEF2C program scores](figures/umap_stress_vs_mef2c_modules.pdf)
+![Stress and MEF2C program scores](Figures/umap_stress_vs_mef2c_modules.pdf)
 
 This visualization illustrates differences in how dissociation stress signals and MEF2C-associated programs are distributed across the embedding.
 
