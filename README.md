@@ -1,7 +1,7 @@
 
 ## Stress-aware analysis of MEF2C regulatory programs in microglia
 
-Stress aware reanalysis of MEF2C regulatory programs in microglia, integrating bulk regulatory genomics and single cell stress modeling to distinguish technical artifacts from true biological signals. 
+Stress aware reanalysis of MEF2C regulatory programs in microglia, using single-cell stress modeling to inform bulk regulatory analysis.
 
 This repository contains an exploratory, stress-aware analysis of MEF2C-associated regulatory programs in microglia.  
 The analysis examines the relationship between MEF2C-linked transcriptional programs and dissociation-induced stress signals.
